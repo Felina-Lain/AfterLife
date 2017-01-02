@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.0" Creator="SCRWIN-1.8.0.0">
+    <Binder>
+        <BinderItem ID="0" Created="2016-11-21 15:40:46 +0000" Modified="2016-11-21 18:25:51 +0000" Type="DraftFolder">
+            <Title>Draft</Title>
+            <MetaData>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="60" Created="2016-11-25 10:34:32 +0000" Modified="2016-11-26 09:02:17 +0000" Type="Folder">
+                    <Title>First Encounter</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>495,495</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="61" Created="2016-11-25 10:37:29 +0000" Modified="2016-12-10 09:59:16 +0000" Type="Text">
+                            <Title>The Oath</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3283,3283</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="65" Created="2016-11-25 13:39:21 +0000" Modified="2016-12-10 10:06:49 +0000" Type="Text">
+                            <Title>After School</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9603,9603</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="67" Created="2016-11-26 10:11:04 +0000" Modified="2016-12-10 12:03:42 +0000" Type="Text">
+                            <Title>Trail</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2489,2489</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="70" Created="2016-12-09 15:37:34 +0000" Modified="2016-12-10 12:05:53 +0000" Type="Text">
+                            <Title>Small Alley</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6154,6154</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="74" Created="2016-12-09 18:31:14 +0000" Modified="2016-12-27 10:48:04 +0000" Type="Text">
+                            <Title>Strange Bar</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6861,6861</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="75" Created="2016-12-10 12:02:38 +0000" Modified="2016-12-10 12:04:35 +0000" Type="Text">
+                            <Title>Drifting</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" Created="2016-11-21 15:40:46 +0000" Modified="2016-11-21 15:40:46 +0000" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="18" Created="2016-11-21 16:50:35 +0000" Modified="2016-11-21 16:53:58 +0000" Type="Text">
+                    <Title>General Setting</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Blackboard.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>36,36</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="4" Created="2016-11-21 15:41:18 +0000" Modified="2016-11-22 21:13:09 +0000" Type="Folder">
+                    <Title>Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="14" Created="2016-11-21 16:21:44 +0000" Modified="2016-11-25 08:38:00 +0000" Type="Text">
+                            <Title>Felina</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>172,172</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                                <KeywordID>5</KeywordID>
+                                <KeywordID>12</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="49" Created="2016-11-24 16:22:36 +0000" Modified="2016-11-24 16:27:26 +0000" Type="Text">
+                            <Title>Fera</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>386,386</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="13" Created="2016-11-21 16:27:51 +0000" Modified="2016-11-25 16:05:03 +0000" Type="Text">
+                            <Title>Darkon</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>242,242</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                                <KeywordID>12</KeywordID>
+                                <KeywordID>10</KeywordID>
+                            </Keywords>
+                            <References>
+                                <Reference BinderID="15">the_dark_pawn_by_felina_faerlaingal-d8mf6v6</Reference>
+                                <Reference BinderID="16">i_own_you_by_felina_faerlaingal-d7ciuio</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="3" Created="2016-11-21 17:29:05 +0000" Modified="2016-11-25 16:05:00 +0000" Type="Text">
+                            <Title>Darkness</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>379,379</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                                <KeywordID>12</KeywordID>
+                                <KeywordID>10</KeywordID>
+                            </Keywords>
+                            <References>
+                                <Reference BinderID="20">darkness_by_pani_ciemnosci-d9fe3gq</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="17" Created="2016-11-21 16:45:24 +0000" Modified="2016-11-25 16:05:08 +0000" Type="Text">
+                            <Title>Saig</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>81,81</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                                <KeywordID>8</KeywordID>
+                                <KeywordID>12</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="27" Created="2016-11-21 17:03:17 +0000" Modified="2016-11-22 21:46:09 +0000" Type="Text">
+                            <Title>Damien</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>122,122</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                                <KeywordID>7</KeywordID>
+                                <KeywordID>12</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="29" Created="2016-11-21 17:11:20 +0000" Modified="2016-11-24 16:15:08 +0000" Type="Text">
+                            <Title>Deerck</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>466,466</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                                <KeywordID>12</KeywordID>
+                                <KeywordID>7</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="30" Created="2016-11-21 17:17:49 +0000" Modified="2016-11-22 21:30:40 +0000" Type="Text">
+                            <Title>Sylvain</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>561,561</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                                <KeywordID>6</KeywordID>
+                                <KeywordID>12</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="35" Created="2016-11-24 13:40:19 +0000" Modified="2016-11-24 16:20:40 +0000" Type="Text">
+                            <Title>Louvun</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>495,495</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="45" Created="2016-11-24 16:15:19 +0000" Modified="2016-11-25 08:53:22 +0000" Type="Text">
+                            <Title>Malien</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>61,61</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="57" Created="2016-11-25 08:36:39 +0000" Modified="2016-12-10 09:59:37 +0000" Type="Text">
+                            <Title>Lucia</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>25,25</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="58" Created="2016-11-25 08:39:56 +0000" Modified="2016-11-25 09:03:21 +0000" Type="Text">
+                            <Title>Julie</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>465,465</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="59" Created="2016-11-25 08:50:56 +0000" Modified="2016-12-05 11:37:40 +0000" Type="Text">
+                            <Title>Lois</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>320,320</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="33" Created="2016-11-23 17:34:10 +0000" Modified="2016-11-25 08:53:29 +0000" Type="Text">
+                            <Title>Myriam</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>56,56</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>1</KeywordID>
+                                <KeywordID>13</KeywordID>
+                                <KeywordID>5</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="7" Created="2016-11-21 15:53:06 +0000" Modified="2016-11-21 16:34:44 +0000" Type="Folder">
+                    <Title>Images</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Characters (Photo).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="48" Created="2016-11-22 22:38:20 +0000" Modified="2016-11-22 22:38:22 +0000" Type="Folder">
+                            <Title>Places</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="46" Created="2016-11-22 22:38:05 +0000" Modified="2016-11-22 22:43:07 +0000" Type="Folder">
+                                    <Title>Martyr's Bar</Title>
+                                    <MetaData>
+                                        <LabelID>3</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                    <Children>
+                                        <BinderItem ID="39" Created="2016-11-22 22:33:45 +0000" Modified="2016-11-22 22:33:45 +0000" Type="Image">
+                                            <Title>creepy-wee-pub</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                        <BinderItem ID="34" Created="2016-11-22 22:30:28 +0000" Modified="2016-11-22 22:30:28 +0000" Type="Image">
+                                            <Title>4151199193_d1bc96eed5_b</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                        <BinderItem ID="36" Created="2016-11-22 22:32:14 +0000" Modified="2016-11-22 22:32:14 +0000" Type="Image">
+                                            <Title>alley</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                        <BinderItem ID="41" Created="2016-11-22 22:31:15 +0000" Modified="2016-11-22 22:31:15 +0000" Type="Image">
+                                            <Title>f5bdb1e1d24d8f3401649f909215c33a</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                        <BinderItem ID="42" Created="2016-11-22 22:34:25 +0000" Modified="2016-11-22 22:34:25 +0000" Type="Image">
+                                            <Title>fd5fb7a43310d43ebe063e7a550c6983</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                        <BinderItem ID="44" Created="2016-11-22 22:33:54 +0000" Modified="2016-11-22 22:33:54 +0000" Type="Image">
+                                            <Title>Katakomb-lounge-bar-by-Betwin-Space-Design-Seoul-03</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                        <BinderItem ID="32" Created="2016-11-22 22:31:32 +0000" Modified="2016-11-22 22:31:32 +0000" Type="Image">
+                                            <Title>0dedd2e4554decf1afbc6c4c48a7fcb3</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                        <BinderItem ID="37" Created="2016-11-22 22:30:25 +0000" Modified="2016-11-22 22:30:25 +0000" Type="Image">
+                                            <Title>Alleys3</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="56" Created="2016-11-24 17:14:16 +0000" Modified="2016-11-24 17:14:25 +0000" Type="Folder">
+                                    <Title>Dinaonyol</Title>
+                                    <MetaData>
+                                        <LabelID>3</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                    <Children>
+                                        <BinderItem ID="51" Created="2016-11-24 17:13:34 +0000" Modified="2016-11-24 17:13:34 +0000" Type="Image">
+                                            <Title>{3e84f2e1-43df-0a3b-f27e-72971c1a20b3}</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                        <BinderItem ID="52" Created="2016-11-24 17:13:15 +0000" Modified="2016-11-24 17:13:16 +0000" Type="Image">
+                                            <Title>hanagakure___flower_city_by_luned-d495zyl</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                        <BinderItem ID="53" Created="2016-11-24 17:13:37 +0000" Modified="2016-11-24 17:13:37 +0000" Type="Image">
+                                            <Title>Nördlingen_Altstadt_Aerial</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                        <BinderItem ID="54" Created="2016-11-24 17:13:19 +0000" Modified="2016-11-24 17:13:19 +0000" Type="Image">
+                                            <Title>st-illust-castle</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                        <BinderItem ID="55" Created="2016-11-24 17:13:31 +0000" Modified="2016-11-24 17:13:31 +0000" Type="Image">
+                                            <Title>Tar_Valon</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="71" Created="2016-12-09 15:45:31 +0000" Modified="2016-12-09 15:45:34 +0000" Type="Folder">
+                                    <Title>University</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                    <Children>
+                                        <BinderItem ID="73" Created="2016-12-09 15:45:57 +0000" Modified="2016-12-09 15:46:10 +0000" Type="Image">
+                                            <Title>University</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>jpg</FileExtension>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                            </MetaData>
+                                            <MediaSettings>
+                                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                            </MediaSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="47" Created="2016-11-22 22:38:14 +0000" Modified="2016-11-22 22:38:17 +0000" Type="Folder">
+                            <Title>Characters</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="15" Created="2016-11-21 16:35:34 +0000" Modified="2016-11-23 17:59:08 +0000" Type="Image">
+                                    <Title>Darkon pinup</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                                    </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="16" Created="2016-11-21 16:35:40 +0000" Modified="2016-11-23 17:59:06 +0000" Type="Image">
+                                    <Title>Darkon/Fel</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                                    </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="20" Created="2016-06-15 09:22:48 +0000" Modified="2016-11-23 18:02:24 +0000" Type="Image">
+                                    <Title>darkness</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScaleFactor>0.72</ImageScaleFactor>
+                                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                                    </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="28" Created="2016-11-21 19:00:07 +0000" Modified="2016-11-23 17:59:14 +0000" Type="Image">
+                                    <Title>Saig pinup</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                                    </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="38" Created="2016-11-23 17:57:23 +0000" Modified="2016-11-23 17:59:16 +0000" Type="Image">
+                                    <Title>Saig Myriam Game</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                                    </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="40" Created="2016-11-23 17:57:37 +0000" Modified="2016-11-23 17:59:18 +0000" Type="Image">
+                                    <Title>Saig Myriam Society</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                                    </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="19" Created="2016-11-21 16:54:30 +0000" Modified="2016-11-21 16:54:56 +0000" Type="Folder">
+                    <Title>Races</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Characters (Mask).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="21" Created="2016-11-21 17:00:39 +0000" Modified="2016-12-12 10:18:07 +0000" Type="Text">
+                            <Title>Vampire</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Book (Brown Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1861,1861</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>4</KeywordID>
+                                <KeywordID>8</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="43" Created="2016-11-24 13:41:34 +0000" Modified="2016-12-12 13:39:42 +0000" Type="Text">
+                            <Title>Werewolf</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Book (Brown Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2422,2422</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>4</KeywordID>
+                                <KeywordID>8</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="22" Created="2016-11-21 17:00:45 +0000" Modified="2016-11-22 21:45:47 +0000" Type="Text">
+                            <Title>Demon</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Book (Brown Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1867,1867</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>4</KeywordID>
+                                <KeywordID>7</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="24" Created="2016-11-21 17:00:54 +0000" Modified="2016-12-27 10:53:23 +0000" Type="Text">
+                            <Title>Elf</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Book (Brown Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1962,1962</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>4</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="23" Created="2016-11-21 17:00:48 +0000" Modified="2016-11-21 19:10:08 +0000" Type="Text">
+                            <Title>Angel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Book (Brown Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>35,35</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>4</KeywordID>
+                                <KeywordID>6</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="25" Created="2016-11-21 17:00:57 +0000" Modified="2016-11-21 18:55:29 +0000" Type="Text">
+                            <Title>Human</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <IconFileName>Book (Brown Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>183,183</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>4</KeywordID>
+                                <KeywordID>5</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="9" Created="2016-11-21 16:08:26 +0000" Modified="2016-11-21 16:08:47 +0000" Type="Folder">
+                    <Title>Plots</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Front Matter.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>No</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="62" Created="2016-11-25 10:35:51 +0000" Modified="2016-11-25 10:40:10 +0000" Type="Text">
+                            <Title>Fel's Quest</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>133,133</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="63" Created="2016-11-25 10:38:26 +0000" Modified="2016-12-27 10:53:43 +0000" Type="Text">
+                            <Title>Darkon's Choice</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>114,114</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="64" Created="2016-11-25 10:38:34 +0000" Modified="2016-12-27 10:53:53 +0000" Type="Text">
+                            <Title>Martyr's Answers</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>131,131</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="10" Created="2016-11-21 16:08:32 +0000" Modified="2016-11-21 16:09:07 +0000" Type="Folder">
+                    <Title>Events</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Information.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="26" Created="2016-11-21 17:01:33 +0000" Modified="2016-11-21 17:02:04 +0000" Type="Folder">
+                    <Title>Places</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Locations (Map).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="31" Created="2016-11-22 21:32:39 +0000" Modified="2016-12-09 18:20:40 +0000" Type="Text">
+                            <Title>Martyr's Bar</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>511,511</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>2</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="50" Created="2016-11-24 16:28:41 +0000" Modified="2016-11-25 08:35:11 +0000" Type="Text">
+                            <Title>Dinaonyol</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>512,512</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>2</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem ID="66" Created="2016-11-25 14:32:30 +0000" Modified="2016-12-27 10:54:49 +0000" Type="Text">
+                            <Title>University</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>100,100</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Keywords>
+                                <KeywordID>2</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" Created="2016-11-21 15:40:46 +0000" Modified="2016-11-21 15:40:46 +0000" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="69" Created="2016-12-08 13:58:56 +0000" Modified="2016-12-08 13:58:56 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="72" Created="2016-12-09 15:45:34 +0000" Modified="2016-12-09 15:45:34 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-01-02 09:12:08 +0000" Type="Folder">
+            <Title>Templates</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="5" Created="2016-11-21 15:41:24 +0000" Modified="2016-11-24 16:25:07 +0000" Type="Text">
+                    <Title>Characters</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>123,123</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Keywords>
+                        <KeywordID>1</KeywordID>
+                    </Keywords>
+                </BinderItem>
+                <BinderItem ID="8" Created="2016-11-21 16:10:48 +0000" Modified="2016-11-24 20:55:58 +0000" Type="Text">
+                    <Title>Place</Title>
+                    <MetaData>
+                        <LabelID>3</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>13,13</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Keywords>
+                        <KeywordID>2</KeywordID>
+                    </Keywords>
+                </BinderItem>
+                <BinderItem ID="11" Created="2016-11-21 16:13:01 +0000" Modified="2016-11-21 16:53:36 +0000" Type="Text">
+                    <Title>Event</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>21,21</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Keywords>
+                        <KeywordID>3</KeywordID>
+                    </Keywords>
+                </BinderItem>
+                <BinderItem ID="12" Created="2016-11-21 16:13:55 +0000" Modified="2016-11-21 16:19:17 +0000" Type="Text">
+                    <Title>Plot</Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>17,17</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="68" Created="2016-12-08 13:58:41 +0000" Modified="2016-12-08 13:59:34 +0000" Type="Text">
+                    <Title>Replace &quot;to Say&quot;</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>80,80</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="c498ebb4-6df7-46ab-96ea-58fe311654aa" Color="0.321569 0.325490 0.333333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="5f22c212-a808-4097-9068-883294ca0ce2" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="All" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">Julia</SearchSettings>
+        </Collection>
+    </Collections>
+    <Keywords>
+        <Keyword ID="5">
+            <Title>Human</Title>
+            <Color>0.890196 0.545098 0.600000</Color>
+        </Keyword>
+        <Keyword ID="6">
+            <Title>Elf</Title>
+            <Color>0.129412 0.215686 0.494118</Color>
+        </Keyword>
+        <Keyword ID="7">
+            <Title>Demon</Title>
+            <Color>0.160784 0.227451 0.098039</Color>
+        </Keyword>
+        <Keyword ID="8">
+            <Title>Vampire</Title>
+            <Color>0.690196 0.921569 0.113725</Color>
+        </Keyword>
+        <Keyword ID="9">
+            <Title>Were</Title>
+            <Color>0.376471 0.600000 0.258824</Color>
+        </Keyword>
+        <Keyword ID="12">
+            <Title>Major Character</Title>
+            <Color>0.000000 0.121569 0.592157</Color>
+        </Keyword>
+        <Keyword ID="10">
+            <Title>DarkSpawn</Title>
+            <Color>0.549020 0.854902 0.709804</Color>
+        </Keyword>
+        <Keyword ID="13">
+            <Title>Minor Character</Title>
+            <Color>0.054902 0.843137 0.137255</Color>
+        </Keyword>
+        <Keyword ID="2">
+            <Title>Place</Title>
+            <Color>0.019608 0.345098 0.019608</Color>
+        </Keyword>
+        <Keyword ID="3">
+            <Title>Event</Title>
+            <Color>0.800000 0.266667 0.243137</Color>
+        </Keyword>
+        <Keyword ID="4">
+            <Title>Race</Title>
+            <Color>0.996078 0.529412 0.333333</Color>
+        </Keyword>
+        <Keyword ID="1">
+            <Title>Character</Title>
+            <Color>0.333333 0.333333 1.000000</Color>
+        </Keyword>
+    </Keywords>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+            <Label ID="2" Color="0.000000 0.470588 0.305882">Character</Label>
+            <Label ID="3" Color="0.000000 0.286275 0.839216">Place</Label>
+            <Label ID="4" Color="0.000000 0.121569 0.015686">Event</Label>
+            <Label ID="5" Color="0.000000 0.176471 0.215686">Plot</Label>
+            <Label ID="6" Color="0.000000 0.411765 0.839216">Scene</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectProperties/>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+    </ProjectTargets>
+    <TemplateFolderID>6</TemplateFolderID>
+    <PrintSettings PaperType="A4" LeftMargin="11.5087" RightMargin="11.5087" TopMargin="11.5087" BottomMargin="11.5087" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
