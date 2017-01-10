@@ -152,13 +152,14 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="76" Created="2017-01-02 17:46:35 +0000" Modified="2017-01-02 17:46:35 +0000" Type="Text">
-                            <Title></Title>
+                        <BinderItem ID="76" Created="2017-01-02 17:46:35 +0000" Modified="2017-01-09 15:56:56 +0000" Type="Text">
+                            <Title>Slow drifting</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>1515,1515</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1314,7 +1315,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-01-06 10:48:21 +0000" Type="Folder">
+        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-01-09 14:26:26 +0000" Type="Folder">
             <Title>Templates</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>

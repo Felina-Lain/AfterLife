@@ -1997,7 +1997,9 @@ Who:Fel, Lois, Lucia, Julie
 
 What: The girls try to get on with normal life, Fel find herself dragged more and more away from them</Notes>
         </Document>
-        <Document ID="76"/>
+        <Document ID="76">
+            <Title>Slow drifting</Title>
+        </Document>
         <Document ID="77">
             <Title>To Return</Title>
         </Document>
