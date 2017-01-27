@@ -30,7 +30,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="61" Created="2016-11-25 10:37:29 +0000" Modified="2017-01-02 17:49:24 +0000" Type="Text">
+                        <BinderItem ID="61" Created="2016-11-25 10:37:29 +0000" Modified="2017-01-27 16:25:08 +0000" Type="Text">
                             <Title>The Oath</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
@@ -39,7 +39,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3141,3141</TextSelection>
+                                <TextSelection>7507,7507</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -48,7 +48,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="65" Created="2016-11-25 13:39:21 +0000" Modified="2016-12-10 10:06:49 +0000" Type="Text">
+                        <BinderItem ID="65" Created="2016-11-25 13:39:21 +0000" Modified="2017-01-27 16:26:30 +0000" Type="Text">
                             <Title>After School</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
@@ -57,7 +57,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>9603,9603</TextSelection>
+                                <TextSelection>10592,10592</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -84,7 +84,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="70" Created="2016-12-09 15:37:34 +0000" Modified="2017-01-02 17:53:20 +0000" Type="Text">
+                        <BinderItem ID="70" Created="2016-12-09 15:37:34 +0000" Modified="2017-01-27 16:26:44 +0000" Type="Text">
                             <Title>Small Alley</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
@@ -92,7 +92,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2751,2751</TextSelection>
+                                <TextSelection>618,618</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -101,15 +101,16 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="74" Created="2016-12-09 18:31:14 +0000" Modified="2017-01-02 17:54:26 +0000" Type="Text">
+                        <BinderItem ID="74" Created="2016-12-09 18:31:14 +0000" Modified="2017-01-27 16:27:07 +0000" Type="Text">
                             <Title>Strange Bar</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1919,1919</TextSelection>
+                                <TextSelection>7521,7521</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -118,7 +119,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="75" Created="2016-12-10 12:02:38 +0000" Modified="2017-01-02 17:46:45 +0000" Type="Text">
+                        <BinderItem ID="75" Created="2016-12-10 12:02:38 +0000" Modified="2017-01-27 16:29:01 +0000" Type="Text">
                             <Title>Running Home</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
@@ -126,7 +127,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6366,6366</TextSelection>
+                                <TextSelection>6230,6230</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -152,14 +153,14 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="76" Created="2017-01-02 17:46:35 +0000" Modified="2017-01-23 11:57:05 +0000" Type="Text">
+                        <BinderItem ID="76" Created="2017-01-02 17:46:35 +0000" Modified="2017-01-27 16:28:04 +0000" Type="Text">
                             <Title>Slow drifting</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8306,8306</TextSelection>
+                                <TextSelection>3514,3514</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -168,14 +169,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="78" Created="2017-01-23 11:57:16 +0000" Modified="2017-01-23 12:00:36 +0000" Type="Text">
+                        <BinderItem ID="78" Created="2017-01-23 11:57:16 +0000" Modified="2017-01-27 17:38:57 +0000" Type="Text">
                             <Title>Work offer</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>386,386</TextSelection>
+                                <TextSelection>5959,5959</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1331,7 +1332,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-01-23 10:12:59 +0000" Type="Folder">
+        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-01-27 17:38:39 +0000" Type="Folder">
             <Title>Templates</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
