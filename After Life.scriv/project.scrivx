@@ -169,14 +169,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="78" Created="2017-01-23 11:57:16 +0000" Modified="2017-01-27 17:38:57 +0000" Type="Text">
+                        <BinderItem ID="78" Created="2017-01-23 11:57:16 +0000" Modified="2017-01-27 17:43:58 +0000" Type="Text">
                             <Title>Work offer</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5959,5959</TextSelection>
+                                <TextSelection>6539,6539</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
