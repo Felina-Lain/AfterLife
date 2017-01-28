@@ -169,14 +169,30 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="78" Created="2017-01-23 11:57:16 +0000" Modified="2017-01-27 17:43:58 +0000" Type="Text">
-                            <Title>Work offer</Title>
+                        <BinderItem ID="78" Created="2017-01-23 11:57:16 +0000" Modified="2017-01-28 13:54:26 +0000" Type="Text">
+                            <Title>Waking Up</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7893,7893</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="79" Created="2017-01-28 13:54:30 +0000" Modified="2017-01-28 13:54:34 +0000" Type="Text">
+                            <Title>Work Offer</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6539,6539</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1332,7 +1348,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-01-27 17:38:39 +0000" Type="Folder">
+        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-01-28 15:46:19 +0000" Type="Folder">
             <Title>Templates</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
