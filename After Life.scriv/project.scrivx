@@ -13,7 +13,7 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="60" Created="2016-11-25 10:34:32 +0000" Modified="2017-02-18 13:54:13 +0000" Type="Folder">
+                <BinderItem ID="60" Created="2016-11-25 10:34:32 +0000" Modified="2017-02-21 16:20:44 +0000" Type="Folder">
                     <Title>First Encounter</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
@@ -49,11 +49,12 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="65" Created="2016-11-25 13:39:21 +0000" Modified="2017-02-21 14:34:53 +0000" Type="Text">
+                        <BinderItem ID="65" Created="2016-11-25 13:39:21 +0000" Modified="2017-02-21 16:20:57 +0000" Type="Text">
                             <Title>After School</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <PageBreakBefore>Yes</PageBreakBefore>
                                 <FileExtension>rtf</FileExtension>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
@@ -67,16 +68,15 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="67" Created="2016-11-26 10:11:04 +0000" Modified="2016-12-10 12:03:42 +0000" Type="Text">
+                        <BinderItem ID="67" Created="2016-11-26 10:11:04 +0000" Modified="2017-02-21 16:20:52 +0000" Type="Text">
                             <Title>Trail</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>932,932</TextSelection>
+                                <TextSelection>7443,7443</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -85,11 +85,10 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="70" Created="2016-12-09 15:37:34 +0000" Modified="2017-01-27 16:26:44 +0000" Type="Text">
+                        <BinderItem ID="70" Created="2016-12-09 15:37:34 +0000" Modified="2017-02-21 16:20:51 +0000" Type="Text">
                             <Title>Small Alley</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -102,11 +101,10 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="74" Created="2016-12-09 18:31:14 +0000" Modified="2017-01-27 16:27:07 +0000" Type="Text">
+                        <BinderItem ID="74" Created="2016-12-09 18:31:14 +0000" Modified="2017-02-21 16:20:50 +0000" Type="Text">
                             <Title>Strange Bar</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
@@ -120,11 +118,10 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="75" Created="2016-12-10 12:02:38 +0000" Modified="2017-02-11 16:16:59 +0000" Type="Text">
+                        <BinderItem ID="75" Created="2016-12-10 12:02:38 +0000" Modified="2017-02-21 16:20:50 +0000" Type="Text">
                             <Title>Running Home</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -139,12 +136,11 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="77" Created="2017-01-06 10:49:26 +0000" Modified="2017-02-18 13:54:05 +0000" Type="Folder">
+                <BinderItem ID="77" Created="2017-01-06 10:49:26 +0000" Modified="2017-02-21 16:20:47 +0000" Type="Folder">
                     <Title>To Return</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
                         <StatusID>2</StatusID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
@@ -156,11 +152,10 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="76" Created="2017-01-02 17:46:35 +0000" Modified="2017-02-18 13:54:28 +0000" Type="Text">
+                        <BinderItem ID="76" Created="2017-01-02 17:46:35 +0000" Modified="2017-02-21 16:20:48 +0000" Type="Text">
                             <Title>Slow drifting</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -173,11 +168,10 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="78" Created="2017-01-23 11:57:16 +0000" Modified="2017-02-18 13:54:30 +0000" Type="Text">
+                        <BinderItem ID="78" Created="2017-01-23 11:57:16 +0000" Modified="2017-02-21 16:20:48 +0000" Type="Text">
                             <Title>Waking Up</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
@@ -1355,7 +1349,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-02-21 13:07:56 +0000" Type="Folder">
+        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-02-21 15:54:55 +0000" Type="Folder">
             <Title>Templates</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1557,5 +1551,5 @@
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
     </ProjectTargets>
     <TemplateFolderID>6</TemplateFolderID>
-    <PrintSettings PaperType="A4" LeftMargin="11.5087" RightMargin="11.5087" TopMargin="11.5087" BottomMargin="11.5087" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+    <PrintSettings PaperType="A4" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="72.0001" BottomMargin="72.0001" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
 </ScrivenerProject>
