@@ -31,7 +31,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="61" Created="2016-11-25 10:37:29 +0000" Modified="2017-02-21 14:22:19 +0000" Type="Text">
+                        <BinderItem ID="61" Created="2016-11-25 10:37:29 +0000" Modified="2017-03-02 11:10:56 +0000" Type="Text">
                             <Title>The Oath</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
@@ -40,7 +40,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1260,1260</TextSelection>
+                                <TextSelection>8152,8152</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -49,7 +49,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="65" Created="2016-11-25 13:39:21 +0000" Modified="2017-02-21 16:20:57 +0000" Type="Text">
+                        <BinderItem ID="65" Created="2016-11-25 13:39:21 +0000" Modified="2017-03-02 09:14:15 +0000" Type="Text">
                             <Title>After School</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
@@ -59,7 +59,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>10990,10990</TextSelection>
+                                <TextSelection>11594,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -68,7 +68,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="67" Created="2016-11-26 10:11:04 +0000" Modified="2017-02-21 16:20:52 +0000" Type="Text">
+                        <BinderItem ID="67" Created="2016-11-26 10:11:04 +0000" Modified="2017-03-02 09:38:30 +0000" Type="Text">
                             <Title>Trail</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
@@ -76,7 +76,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7443,7443</TextSelection>
+                                <TextSelection>9374,9374</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -85,14 +85,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="70" Created="2016-12-09 15:37:34 +0000" Modified="2017-02-21 16:20:51 +0000" Type="Text">
+                        <BinderItem ID="70" Created="2016-12-09 15:37:34 +0000" Modified="2017-03-02 10:50:12 +0000" Type="Text">
                             <Title>Small Alley</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>618,618</TextSelection>
+                                <TextSelection>7839,7839</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1349,7 +1349,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-02-21 15:54:55 +0000" Type="Folder">
+        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-03-10 08:49:38 +0000" Type="Folder">
             <Title>Templates</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
