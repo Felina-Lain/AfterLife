@@ -202,7 +202,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="81" Created="2017-09-23 11:17:07 +0000" Modified="2017-09-23 11:18:03 +0000" Type="Text">
+                        <BinderItem ID="81" Created="2017-09-23 11:17:07 +0000" Modified="2017-09-25 16:44:29 +0000" Type="Text">
                             <Title>First day</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
@@ -210,6 +210,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>473,473</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1382,7 +1383,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-09-23 11:15:09 +0000" Type="Folder">
+        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-09-25 16:35:01 +0000" Type="Folder">
             <Title>Templates</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
