@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.0" Creator="SCRWIN-1.8.0.0">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Felina-PC" Modified="2017-09-26 15:34:31 +0200" ModID="EEF145F7-937D-40F3-A863-F71FE240C79C">
     <Binder>
-        <BinderItem ID="0" Created="2016-11-21 15:40:46 +0000" Modified="2017-02-11 16:16:03 +0000" Type="DraftFolder">
+        <BinderItem ID="0" UUID="3A49FFE4-B2D3-4044-8D5E-ED2E183BE133" Created="2016-11-21 16:40:46 +0200" Modified="2017-02-11 17:16:03 +0200" Type="DraftFolder">
             <Title>Draft</Title>
             <MetaData>
                 <StatusID>2</StatusID>
-                <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <CorkboardAndOutliner>
                 <CorkboardSettings>
@@ -13,14 +12,13 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="60" Created="2016-11-25 10:34:32 +0000" Modified="2017-02-21 16:20:44 +0000" Type="Folder">
+                <BinderItem ID="60" UUID="59AB6859-FC8C-4B3D-9CA2-38CB81DB9072" Created="2016-11-25 11:34:32 +0200" Modified="2017-02-21 17:20:44 +0200" Type="Folder">
                     <Title>First Encounter</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
                         <StatusID>2</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
@@ -31,16 +29,15 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="61" Created="2016-11-25 10:37:29 +0000" Modified="2017-03-02 11:10:56 +0000" Type="Text">
+                        <BinderItem ID="61" UUID="E4779F75-3E08-4085-B528-27F2BBE130D3" Created="2016-11-25 11:37:29 +0200" Modified="2017-03-02 12:10:56 +0200" Type="Text">
                             <Title>The Oath</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8152,8152</TextSelection>
+                                <TextSelection>8152,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -49,17 +46,16 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="65" Created="2016-11-25 13:39:21 +0000" Modified="2017-05-29 11:52:05 +0000" Type="Text">
+                        <BinderItem ID="65" UUID="4BA8039D-74CA-4B6D-93C1-7DC80EA2380A" Created="2016-11-25 14:39:21 +0200" Modified="2017-05-29 13:52:05 +0200" Type="Text">
                             <Title>After School</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <PageBreakBefore>Yes</PageBreakBefore>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <PageBreakBefore>Yes</PageBreakBefore>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4874,4874</TextSelection>
+                                <TextSelection>4874,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -68,15 +64,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="67" Created="2016-11-26 10:11:04 +0000" Modified="2017-03-02 09:38:30 +0000" Type="Text">
+                        <BinderItem ID="67" UUID="C5D073F2-295F-4725-A1E9-E905E93CC299" Created="2016-11-26 11:11:04 +0200" Modified="2017-03-02 10:38:30 +0200" Type="Text">
                             <Title>Trail</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>9374,9374</TextSelection>
+                                <TextSelection>9374,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -85,14 +80,13 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="70" Created="2016-12-09 15:37:34 +0000" Modified="2017-03-02 10:50:12 +0000" Type="Text">
+                        <BinderItem ID="70" UUID="B35E3B98-D1B7-48AC-AB54-E2525EF0F918" Created="2016-12-09 16:37:34 +0200" Modified="2017-03-02 11:50:12 +0200" Type="Text">
                             <Title>Small Alley</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7839,7839</TextSelection>
+                                <TextSelection>7839,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -101,15 +95,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="74" Created="2016-12-09 18:31:14 +0000" Modified="2017-02-21 16:20:50 +0000" Type="Text">
+                        <BinderItem ID="74" UUID="E7127423-18D8-4A31-BC9D-5365C363ACCB" Created="2016-12-09 19:31:14 +0200" Modified="2017-02-21 17:20:50 +0200" Type="Text">
                             <Title>Strange Bar</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2932,2932</TextSelection>
+                                <TextSelection>2932,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -118,14 +111,13 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="75" Created="2016-12-10 12:02:38 +0000" Modified="2017-02-21 16:20:50 +0000" Type="Text">
+                        <BinderItem ID="75" UUID="0837DBF3-74D2-4FD8-823D-74B6D2DD08B7" Created="2016-12-10 13:02:38 +0200" Modified="2017-02-21 17:20:50 +0200" Type="Text">
                             <Title>Running Home</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6230,6230</TextSelection>
+                                <TextSelection>6230,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -136,12 +128,11 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="77" Created="2017-01-06 10:49:26 +0000" Modified="2017-02-21 16:20:47 +0000" Type="Folder">
+                <BinderItem ID="77" UUID="4558CE75-CE49-49D5-BCC4-B29A2A761C41" Created="2017-01-06 11:49:26 +0200" Modified="2017-02-21 17:20:47 +0200" Type="Folder">
                     <Title>To Return</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
                         <StatusID>2</StatusID>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
@@ -152,14 +143,13 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="76" Created="2017-01-02 17:46:35 +0000" Modified="2017-02-21 16:20:48 +0000" Type="Text">
+                        <BinderItem ID="76" UUID="1AB47548-E0D3-430B-95ED-1C6812D68B03" Created="2017-01-02 18:46:35 +0200" Modified="2017-02-21 17:20:48 +0200" Type="Text">
                             <Title>Slow drifting</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4478,4478</TextSelection>
+                                <TextSelection>4478,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -168,15 +158,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="78" Created="2017-01-23 11:57:16 +0000" Modified="2017-02-21 16:20:48 +0000" Type="Text">
+                        <BinderItem ID="78" UUID="0C3B2B6B-6DB2-49E0-BEA7-0B4C3971A137" Created="2017-01-23 12:57:16 +0200" Modified="2017-02-21 17:20:48 +0200" Type="Text">
                             <Title>Waking Up</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3506,3506</TextSelection>
+                                <TextSelection>3506,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -185,15 +174,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="79" Created="2017-01-28 13:54:30 +0000" Modified="2017-05-29 12:21:12 +0000" Type="Text">
+                        <BinderItem ID="79" UUID="5772C01B-7E25-423D-BFC5-6A2B6D1EFF27" Created="2017-01-28 14:54:30 +0200" Modified="2017-05-29 14:21:12 +0200" Type="Text">
                             <Title>Work Offer</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6723,6723</TextSelection>
+                                <TextSelection>6723,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -202,15 +190,13 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="81" Created="2017-09-23 11:17:07 +0000" Modified="2017-09-25 16:44:29 +0000" Type="Text">
+                        <BinderItem ID="81" UUID="A184C117-67E8-4FC7-833D-BC63A322667B" Created="2017-09-23 13:17:07 +0200" Modified="2017-09-23 13:18:03 +0200" Type="Text">
                             <Title>First day</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>473,473</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -223,27 +209,24 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="1" Created="2016-11-21 15:40:46 +0000" Modified="2016-11-21 15:40:46 +0000" Type="ResearchFolder">
+        <BinderItem ID="1" UUID="DFD23E93-4B39-48D2-81A1-0762C4B0282A" Created="2016-11-21 16:40:46 +0200" Modified="2016-11-21 16:40:46 +0200" Type="ResearchFolder">
             <Title>Research</Title>
-            <MetaData>
-                <NotesTextSelection>0,0</NotesTextSelection>
-            </MetaData>
+            <MetaData/>
             <CorkboardAndOutliner>
                 <CorkboardSettings>
                     <FreeformMode>Yes</FreeformMode>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="18" Created="2016-11-21 16:50:35 +0000" Modified="2017-01-23 10:47:11 +0000" Type="Text">
+                <BinderItem ID="18" UUID="8CB81088-ACB1-486A-BFDE-08D407EE0006" Created="2016-11-21 17:50:35 +0200" Modified="2017-01-23 11:47:11 +0200" Type="Text">
                     <Title>General Setting</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                         <IconFileName>Blackboard.tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>69,69</TextSelection>
+                        <TextSelection>69,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -252,11 +235,10 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="4" Created="2016-11-21 15:41:18 +0000" Modified="2016-11-22 21:13:09 +0000" Type="Folder">
+                <BinderItem ID="4" UUID="7C5BF752-A6D2-4F8B-A16D-0A908FFC203B" Created="2016-11-21 16:41:18 +0200" Modified="2016-11-22 22:13:09 +0200" Type="Folder">
                     <Title>Characters</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                         <IconFileName>Characters (Character Sheet).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
@@ -268,15 +250,14 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="14" Created="2016-11-21 16:21:44 +0000" Modified="2016-11-25 08:38:00 +0000" Type="Text">
+                        <BinderItem ID="14" UUID="A05E0131-FF21-45FC-8FA6-B51505EA23BA" Created="2016-11-21 17:21:44 +0200" Modified="2016-11-25 09:38:00 +0200" Type="Text">
                             <Title>Felina</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>172,172</TextSelection>
+                                <TextSelection>172,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -290,15 +271,14 @@
                                 <KeywordID>12</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="49" Created="2016-11-24 16:22:36 +0000" Modified="2016-11-24 16:27:26 +0000" Type="Text">
+                        <BinderItem ID="49" UUID="D4EF545F-809E-453B-8989-6D6B88D0E822" Created="2016-11-24 17:22:36 +0200" Modified="2016-11-24 17:27:26 +0200" Type="Text">
                             <Title>Fera</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>386,386</TextSelection>
+                                <TextSelection>386,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -310,15 +290,14 @@
                                 <KeywordID>1</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="13" Created="2016-11-21 16:27:51 +0000" Modified="2016-11-25 16:05:03 +0000" Type="Text">
+                        <BinderItem ID="13" UUID="A31EA841-96AE-492D-90E5-6EB88AC2ADC1" Created="2016-11-21 17:27:51 +0200" Modified="2016-11-25 17:05:03 +0200" Type="Text">
                             <Title>Darkon</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>242,242</TextSelection>
+                                <TextSelection>242,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -336,15 +315,14 @@
                                 <Reference BinderID="16">i_own_you_by_felina_faerlaingal-d7ciuio</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="3" Created="2016-11-21 17:29:05 +0000" Modified="2016-11-25 16:05:00 +0000" Type="Text">
+                        <BinderItem ID="3" UUID="EE43E0FF-2AB4-4B3C-9473-A6D0E58AC630" Created="2016-11-21 18:29:05 +0200" Modified="2016-11-25 17:05:00 +0200" Type="Text">
                             <Title>Darkness</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>379,379</TextSelection>
+                                <TextSelection>379,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -361,15 +339,14 @@
                                 <Reference BinderID="20">darkness_by_pani_ciemnosci-d9fe3gq</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="17" Created="2016-11-21 16:45:24 +0000" Modified="2016-11-25 16:05:08 +0000" Type="Text">
+                        <BinderItem ID="17" UUID="1558676D-C1C7-4204-8E3A-8FDBECD553C2" Created="2016-11-21 17:45:24 +0200" Modified="2016-11-25 17:05:08 +0200" Type="Text">
                             <Title>Saig</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>81,81</TextSelection>
+                                <TextSelection>81,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -383,15 +360,14 @@
                                 <KeywordID>12</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="27" Created="2016-11-21 17:03:17 +0000" Modified="2016-11-22 21:46:09 +0000" Type="Text">
+                        <BinderItem ID="27" UUID="868D67D8-A318-463B-BFA2-179C3B3CD87B" Created="2016-11-21 18:03:17 +0200" Modified="2016-11-22 22:46:09 +0200" Type="Text">
                             <Title>Damien</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>122,122</TextSelection>
+                                <TextSelection>122,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -405,15 +381,14 @@
                                 <KeywordID>12</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="29" Created="2016-11-21 17:11:20 +0000" Modified="2016-11-24 16:15:08 +0000" Type="Text">
+                        <BinderItem ID="29" UUID="3211DDAE-8AF4-45CE-A729-FCA1ACAEEB10" Created="2016-11-21 18:11:20 +0200" Modified="2016-11-24 17:15:08 +0200" Type="Text">
                             <Title>Deerck</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>466,466</TextSelection>
+                                <TextSelection>466,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -427,15 +402,14 @@
                                 <KeywordID>7</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="30" Created="2016-11-21 17:17:49 +0000" Modified="2016-11-22 21:30:40 +0000" Type="Text">
+                        <BinderItem ID="30" UUID="A4A93259-D60F-471B-80C9-F15798CD2AD7" Created="2016-11-21 18:17:49 +0200" Modified="2016-11-22 22:30:40 +0200" Type="Text">
                             <Title>Sylvain</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>561,561</TextSelection>
+                                <TextSelection>561,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -449,14 +423,13 @@
                                 <KeywordID>12</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="35" Created="2016-11-24 13:40:19 +0000" Modified="2016-11-24 16:20:40 +0000" Type="Text">
+                        <BinderItem ID="35" UUID="5756FC9C-DC5C-4E17-82B5-D66A2B681274" Created="2016-11-24 14:40:19 +0200" Modified="2016-11-24 17:20:40 +0200" Type="Text">
                             <Title>Louvun</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>495,495</TextSelection>
+                                <TextSelection>495,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -468,14 +441,13 @@
                                 <KeywordID>1</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="45" Created="2016-11-24 16:15:19 +0000" Modified="2016-11-25 08:53:22 +0000" Type="Text">
+                        <BinderItem ID="45" UUID="2000E49C-10DB-49E6-B871-4ED8D195F7EE" Created="2016-11-24 17:15:19 +0200" Modified="2016-11-25 09:53:22 +0200" Type="Text">
                             <Title>Malien</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>61,61</TextSelection>
+                                <TextSelection>61,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -487,14 +459,13 @@
                                 <KeywordID>1</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="57" Created="2016-11-25 08:36:39 +0000" Modified="2016-12-10 09:59:37 +0000" Type="Text">
+                        <BinderItem ID="57" UUID="DD91D2FE-CD38-4CE1-9BCA-7713516BFB4C" Created="2016-11-25 09:36:39 +0200" Modified="2016-12-10 10:59:37 +0200" Type="Text">
                             <Title>Lucia</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>25,25</TextSelection>
+                                <TextSelection>25,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -506,14 +477,13 @@
                                 <KeywordID>1</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="58" Created="2016-11-25 08:39:56 +0000" Modified="2016-11-25 09:03:21 +0000" Type="Text">
+                        <BinderItem ID="58" UUID="4DB9B894-6B6A-4C68-B7F3-2920AA59FCE8" Created="2016-11-25 09:39:56 +0200" Modified="2016-11-25 10:03:21 +0200" Type="Text">
                             <Title>Julie</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>465,465</TextSelection>
+                                <TextSelection>465,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -525,14 +495,13 @@
                                 <KeywordID>1</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="59" Created="2016-11-25 08:50:56 +0000" Modified="2016-12-05 11:37:40 +0000" Type="Text">
+                        <BinderItem ID="59" UUID="6EE585FD-C6C6-4E1F-A4FD-32118FD9924A" Created="2016-11-25 09:50:56 +0200" Modified="2016-12-05 12:37:40 +0200" Type="Text">
                             <Title>Lois</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>320,320</TextSelection>
+                                <TextSelection>320,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -544,15 +513,14 @@
                                 <KeywordID>1</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="33" Created="2016-11-23 17:34:10 +0000" Modified="2016-11-25 08:53:29 +0000" Type="Text">
+                        <BinderItem ID="33" UUID="B3A6032B-C01A-4C62-A440-B006FCFEAEB8" Created="2016-11-23 18:34:10 +0200" Modified="2016-11-25 09:53:29 +0200" Type="Text">
                             <Title>Myriam</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>56,56</TextSelection>
+                                <TextSelection>56,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -568,10 +536,9 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="7" Created="2016-11-21 15:53:06 +0000" Modified="2016-11-21 16:34:44 +0000" Type="Folder">
+                <BinderItem ID="7" UUID="4F1E0AF1-3D8B-4C6B-82D7-5CAE971E3A61" Created="2016-11-21 16:53:06 +0200" Modified="2016-11-21 17:34:44 +0200" Type="Folder">
                     <Title>Images</Title>
                     <MetaData>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                         <IconFileName>Characters (Photo).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
@@ -583,11 +550,10 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="48" Created="2016-11-22 22:38:20 +0000" Modified="2016-11-22 22:38:22 +0000" Type="Folder">
+                        <BinderItem ID="48" UUID="823ADE48-EF73-4FA4-819D-2EAC78D8FF2D" Created="2016-11-22 23:38:20 +0200" Modified="2016-11-22 23:38:22 +0200" Type="Folder">
                             <Title>Places</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
                                 <Target Type="Words">0</Target>
@@ -598,12 +564,11 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem ID="46" Created="2016-11-22 22:38:05 +0000" Modified="2016-11-22 22:43:07 +0000" Type="Folder">
+                                <BinderItem ID="46" UUID="063E17F7-D0DE-40E8-AD0C-0AEFE73B01E6" Created="2016-11-22 23:38:05 +0200" Modified="2016-11-22 23:43:07 +0200" Type="Folder">
                                     <Title>Martyr's Bar</Title>
                                     <MetaData>
                                         <LabelID>3</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
                                         <Target Type="Words">0</Target>
@@ -614,12 +579,11 @@
                                         </CorkboardSettings>
                                     </CorkboardAndOutliner>
                                     <Children>
-                                        <BinderItem ID="39" Created="2016-11-22 22:33:45 +0000" Modified="2016-11-22 22:33:45 +0000" Type="Image">
+                                        <BinderItem ID="39" UUID="81206359-1104-4DF5-9E5B-3A74C28EABCC" Created="2016-11-22 23:33:45 +0200" Modified="2016-11-22 23:33:45 +0200" Type="Image">
                                             <Title>creepy-wee-pub</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -631,12 +595,11 @@
                                                 </CorkboardSettings>
                                             </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="34" Created="2016-11-22 22:30:28 +0000" Modified="2016-11-22 22:30:28 +0000" Type="Image">
+                                        <BinderItem ID="34" UUID="8F9B2B52-32FF-4167-892B-A5679BDFE9C8" Created="2016-11-22 23:30:28 +0200" Modified="2016-11-22 23:30:28 +0200" Type="Image">
                                             <Title>4151199193_d1bc96eed5_b</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -648,12 +611,11 @@
                                                 </CorkboardSettings>
                                             </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="36" Created="2016-11-22 22:32:14 +0000" Modified="2016-11-22 22:32:14 +0000" Type="Image">
+                                        <BinderItem ID="36" UUID="E7FBE368-B4DE-4F88-8D2A-852359EEECF2" Created="2016-11-22 23:32:14 +0200" Modified="2016-11-22 23:32:14 +0200" Type="Image">
                                             <Title>alley</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -665,12 +627,11 @@
                                                 </CorkboardSettings>
                                             </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="41" Created="2016-11-22 22:31:15 +0000" Modified="2016-11-22 22:31:15 +0000" Type="Image">
+                                        <BinderItem ID="41" UUID="24508F49-C1BB-4A5B-807C-0037DA3E2311" Created="2016-11-22 23:31:15 +0200" Modified="2016-11-22 23:31:15 +0200" Type="Image">
                                             <Title>f5bdb1e1d24d8f3401649f909215c33a</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -682,12 +643,11 @@
                                                 </CorkboardSettings>
                                             </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="42" Created="2016-11-22 22:34:25 +0000" Modified="2016-11-22 22:34:25 +0000" Type="Image">
+                                        <BinderItem ID="42" UUID="1DA4C523-40FF-4ABD-9C5A-6D934E2563DF" Created="2016-11-22 23:34:25 +0200" Modified="2016-11-22 23:34:25 +0200" Type="Image">
                                             <Title>fd5fb7a43310d43ebe063e7a550c6983</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -699,12 +659,11 @@
                                                 </CorkboardSettings>
                                             </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="44" Created="2016-11-22 22:33:54 +0000" Modified="2016-11-22 22:33:54 +0000" Type="Image">
+                                        <BinderItem ID="44" UUID="AC17DDE2-ADA8-4284-8613-9F918250CD07" Created="2016-11-22 23:33:54 +0200" Modified="2016-11-22 23:33:54 +0200" Type="Image">
                                             <Title>Katakomb-lounge-bar-by-Betwin-Space-Design-Seoul-03</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -716,12 +675,11 @@
                                                 </CorkboardSettings>
                                             </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="32" Created="2016-11-22 22:31:32 +0000" Modified="2016-11-22 22:31:32 +0000" Type="Image">
+                                        <BinderItem ID="32" UUID="AD4AD932-7506-4383-991B-717DEB2144B6" Created="2016-11-22 23:31:32 +0200" Modified="2016-11-22 23:31:32 +0200" Type="Image">
                                             <Title>0dedd2e4554decf1afbc6c4c48a7fcb3</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -733,12 +691,11 @@
                                                 </CorkboardSettings>
                                             </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="37" Created="2016-11-22 22:30:25 +0000" Modified="2016-11-22 22:30:25 +0000" Type="Image">
+                                        <BinderItem ID="37" UUID="60CB4104-96A6-45BC-B7EA-6015F1BAC885" Created="2016-11-22 23:30:25 +0200" Modified="2016-11-22 23:30:25 +0200" Type="Image">
                                             <Title>Alleys3</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -750,12 +707,11 @@
                                                 </CorkboardSettings>
                                             </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="80" Created="2017-09-23 11:15:47 +0000" Modified="2017-09-23 11:15:47 +0000" Type="Image">
+                                        <BinderItem ID="80" UUID="CEA7DEF3-F44C-4959-A673-01438C3A8FC0" Created="2017-09-23 13:15:47 +0200" Modified="2017-09-23 13:15:47 +0200" Type="Image">
                                             <Title>martyr_s_bar_by_felina_faerlaingal-dbjgfak</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>png</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -769,12 +725,11 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem ID="56" Created="2016-11-24 17:14:16 +0000" Modified="2016-11-24 17:14:25 +0000" Type="Folder">
+                                <BinderItem ID="56" UUID="3F235390-C9E2-4F69-BBA9-C9BE80CDF6DC" Created="2016-11-24 18:14:16 +0200" Modified="2016-11-24 18:14:25 +0200" Type="Folder">
                                     <Title>Dinaonyol</Title>
                                     <MetaData>
                                         <LabelID>3</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
                                         <Target Type="Words">0</Target>
@@ -785,12 +740,11 @@
                                         </CorkboardSettings>
                                     </CorkboardAndOutliner>
                                     <Children>
-                                        <BinderItem ID="51" Created="2016-11-24 17:13:34 +0000" Modified="2016-11-24 17:13:34 +0000" Type="Image">
+                                        <BinderItem ID="51" UUID="6AAFB055-099E-49BF-9264-CE1BA5B2ABCF" Created="2016-11-24 18:13:34 +0200" Modified="2016-11-24 18:13:34 +0200" Type="Image">
                                             <Title>{3e84f2e1-43df-0a3b-f27e-72971c1a20b3}</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -802,12 +756,11 @@
                                                 </CorkboardSettings>
                                             </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="52" Created="2016-11-24 17:13:15 +0000" Modified="2016-11-24 17:13:16 +0000" Type="Image">
+                                        <BinderItem ID="52" UUID="0D6839DC-D462-46A8-B4FA-E8B249A20D9A" Created="2016-11-24 18:13:15 +0200" Modified="2016-11-24 18:13:16 +0200" Type="Image">
                                             <Title>hanagakure___flower_city_by_luned-d495zyl</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -819,12 +772,11 @@
                                                 </CorkboardSettings>
                                             </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="53" Created="2016-11-24 17:13:37 +0000" Modified="2016-11-24 17:13:37 +0000" Type="Image">
+                                        <BinderItem ID="53" UUID="38733894-73A4-42EC-8DA3-665DF1F4C702" Created="2016-11-24 18:13:37 +0200" Modified="2016-11-24 18:13:37 +0200" Type="Image">
                                             <Title>Nördlingen_Altstadt_Aerial</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -836,12 +788,11 @@
                                                 </CorkboardSettings>
                                             </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="54" Created="2016-11-24 17:13:19 +0000" Modified="2016-11-24 17:13:19 +0000" Type="Image">
+                                        <BinderItem ID="54" UUID="C8848262-D495-457F-8436-86B46E813ECA" Created="2016-11-24 18:13:19 +0200" Modified="2016-11-24 18:13:19 +0200" Type="Image">
                                             <Title>st-illust-castle</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -853,12 +804,11 @@
                                                 </CorkboardSettings>
                                             </CorkboardAndOutliner>
                                         </BinderItem>
-                                        <BinderItem ID="55" Created="2016-11-24 17:13:31 +0000" Modified="2016-11-24 17:13:31 +0000" Type="Image">
+                                        <BinderItem ID="55" UUID="E2B1C3E9-8A26-4CB4-AC93-A07D3E14D373" Created="2016-11-24 18:13:31 +0200" Modified="2016-11-24 18:13:31 +0200" Type="Image">
                                             <Title>Tar_Valon</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -872,11 +822,10 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem ID="71" Created="2016-12-09 15:45:31 +0000" Modified="2016-12-09 15:45:34 +0000" Type="Folder">
+                                <BinderItem ID="71" UUID="1CFB4C38-905F-419C-8450-9C3F0676864A" Created="2016-12-09 16:45:31 +0200" Modified="2016-12-09 16:45:34 +0200" Type="Folder">
                                     <Title>University</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
                                         <Target Type="Words">0</Target>
@@ -887,12 +836,11 @@
                                         </CorkboardSettings>
                                     </CorkboardAndOutliner>
                                     <Children>
-                                        <BinderItem ID="73" Created="2016-12-09 15:45:57 +0000" Modified="2016-12-09 15:46:10 +0000" Type="Image">
+                                        <BinderItem ID="73" UUID="3B538582-FA82-485C-B1EC-CA924205C0F6" Created="2016-12-09 16:45:57 +0200" Modified="2016-12-09 16:46:10 +0200" Type="Image">
                                             <Title>University</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <FileExtension>jpg</FileExtension>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
                                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                             </MetaData>
                                             <MediaSettings>
@@ -908,11 +856,10 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="47" Created="2016-11-22 22:38:14 +0000" Modified="2016-11-22 22:38:17 +0000" Type="Folder">
+                        <BinderItem ID="47" UUID="6F3D28F6-F860-4D0D-A6B4-99E87E402BD3" Created="2016-11-22 23:38:14 +0200" Modified="2016-11-22 23:38:17 +0200" Type="Folder">
                             <Title>Characters</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
                                 <Target Type="Words">0</Target>
@@ -923,12 +870,11 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem ID="15" Created="2016-11-21 16:35:34 +0000" Modified="2016-11-23 17:59:08 +0000" Type="Image">
+                                <BinderItem ID="15" UUID="B5B796B2-F5D6-4901-93AE-FE263677992E" Created="2016-11-21 17:35:34 +0200" Modified="2016-11-23 18:59:08 +0200" Type="Image">
                                     <Title>Darkon pinup</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>png</FileExtension>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
                                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                     </MetaData>
                                     <MediaSettings>
@@ -940,12 +886,11 @@
                                         </CorkboardSettings>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="16" Created="2016-11-21 16:35:40 +0000" Modified="2016-11-23 17:59:06 +0000" Type="Image">
+                                <BinderItem ID="16" UUID="0DED48AB-937F-4944-BD04-F77A401CD5A1" Created="2016-11-21 17:35:40 +0200" Modified="2016-11-23 18:59:06 +0200" Type="Image">
                                     <Title>Darkon/Fel</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>png</FileExtension>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
                                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                     </MetaData>
                                     <MediaSettings>
@@ -957,12 +902,11 @@
                                         </CorkboardSettings>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="20" Created="2016-06-15 09:22:48 +0000" Modified="2016-11-23 18:02:24 +0000" Type="Image">
+                                <BinderItem ID="20" UUID="561D2E75-D225-4D59-98FB-D0C7EDD2DD42" Created="2016-06-15 11:22:48 +0200" Modified="2016-11-23 19:02:24 +0200" Type="Image">
                                     <Title>darkness</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>jpg</FileExtension>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
                                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                     </MetaData>
                                     <MediaSettings>
@@ -975,12 +919,11 @@
                                         </CorkboardSettings>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="28" Created="2016-11-21 19:00:07 +0000" Modified="2016-11-23 17:59:14 +0000" Type="Image">
+                                <BinderItem ID="28" UUID="8B949A0C-BD56-4DAA-BC40-AF6A94DCB3E9" Created="2016-11-21 20:00:07 +0200" Modified="2016-11-23 18:59:14 +0200" Type="Image">
                                     <Title>Saig pinup</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>png</FileExtension>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
                                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                     </MetaData>
                                     <MediaSettings>
@@ -992,12 +935,11 @@
                                         </CorkboardSettings>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="38" Created="2016-11-23 17:57:23 +0000" Modified="2016-11-23 17:59:16 +0000" Type="Image">
+                                <BinderItem ID="38" UUID="B3EF2A4D-368A-4FA9-9031-7C0147DB51A1" Created="2016-11-23 18:57:23 +0200" Modified="2016-11-23 18:59:16 +0200" Type="Image">
                                     <Title>Saig Myriam Game</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>png</FileExtension>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
                                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                     </MetaData>
                                     <MediaSettings>
@@ -1009,12 +951,11 @@
                                         </CorkboardSettings>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="40" Created="2016-11-23 17:57:37 +0000" Modified="2016-11-23 17:59:18 +0000" Type="Image">
+                                <BinderItem ID="40" UUID="F3D91EA2-67BA-4B2E-B493-53D0B9602E32" Created="2016-11-23 18:57:37 +0200" Modified="2016-11-23 18:59:18 +0200" Type="Image">
                                     <Title>Saig Myriam Society</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>png</FileExtension>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
                                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                     </MetaData>
                                     <MediaSettings>
@@ -1030,11 +971,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="19" Created="2016-11-21 16:54:30 +0000" Modified="2016-11-21 16:54:56 +0000" Type="Folder">
+                <BinderItem ID="19" UUID="9D582DA4-C997-461A-8DF6-4AA472905B59" Created="2016-11-21 17:54:30 +0200" Modified="2016-11-21 17:54:56 +0200" Type="Folder">
                     <Title>Races</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                         <IconFileName>Characters (Mask).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
@@ -1046,15 +986,14 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="21" Created="2016-11-21 17:00:39 +0000" Modified="2017-05-29 12:35:47 +0000" Type="Text">
+                        <BinderItem ID="21" UUID="2D934402-21B2-4710-93AE-6C127E952D94" Created="2016-11-21 18:00:39 +0200" Modified="2017-05-29 14:35:47 +0200" Type="Text">
                             <Title>Vampire</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                                 <IconFileName>Book (Brown Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1033,1033</TextSelection>
+                                <TextSelection>1033,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1067,15 +1006,14 @@
                                 <KeywordID>8</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="43" Created="2016-11-24 13:41:34 +0000" Modified="2016-12-12 13:39:42 +0000" Type="Text">
+                        <BinderItem ID="43" UUID="82DBB0D4-876B-4212-96EA-2BD675BC3ADA" Created="2016-11-24 14:41:34 +0200" Modified="2016-12-12 14:39:42 +0200" Type="Text">
                             <Title>Werewolf</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                                 <IconFileName>Book (Brown Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2422,2422</TextSelection>
+                                <TextSelection>2422,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1088,16 +1026,15 @@
                                 <KeywordID>8</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="22" Created="2016-11-21 17:00:45 +0000" Modified="2017-05-29 12:38:01 +0000" Type="Text">
+                        <BinderItem ID="22" UUID="7EE88BE5-468A-4165-9F7D-F32DCB5892DC" Created="2016-11-21 18:00:45 +0200" Modified="2017-05-29 14:38:01 +0200" Type="Text">
                             <Title>Demon</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                                 <IconFileName>Book (Brown Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>136,136</TextSelection>
+                                <TextSelection>136,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1110,15 +1047,14 @@
                                 <KeywordID>7</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="24" Created="2016-11-21 17:00:54 +0000" Modified="2016-12-27 10:53:23 +0000" Type="Text">
+                        <BinderItem ID="24" UUID="E372EB2D-8C83-4241-B468-9467C773F9FD" Created="2016-11-21 18:00:54 +0200" Modified="2016-12-27 11:53:23 +0200" Type="Text">
                             <Title>Elf</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                                 <IconFileName>Book (Brown Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1962,1962</TextSelection>
+                                <TextSelection>1962,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1130,16 +1066,15 @@
                                 <KeywordID>4</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="23" Created="2016-11-21 17:00:48 +0000" Modified="2016-11-21 19:10:08 +0000" Type="Text">
+                        <BinderItem ID="23" UUID="DDE7D637-4965-4507-A03D-121D2A997DEF" Created="2016-11-21 18:00:48 +0200" Modified="2016-11-21 20:10:08 +0200" Type="Text">
                             <Title>Angel</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                                 <IconFileName>Book (Brown Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>35,35</TextSelection>
+                                <TextSelection>35,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1152,15 +1087,14 @@
                                 <KeywordID>6</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="25" Created="2016-11-21 17:00:57 +0000" Modified="2016-11-21 18:55:29 +0000" Type="Text">
+                        <BinderItem ID="25" UUID="5E8D3DB6-3640-458E-B6F6-4CC544C345B2" Created="2016-11-21 18:00:57 +0200" Modified="2016-11-21 19:55:29 +0200" Type="Text">
                             <Title>Human</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                                 <IconFileName>Book (Brown Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>183,183</TextSelection>
+                                <TextSelection>183,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1175,31 +1109,24 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="9" Created="2016-11-21 16:08:26 +0000" Modified="2016-11-21 16:08:47 +0000" Type="Folder">
+                <BinderItem ID="9" UUID="53EEB9DC-950E-49A0-A5EB-6AFF54339984" Created="2016-11-21 17:08:26 +0200" Modified="2016-11-21 17:08:47 +0200" Type="Folder">
                     <Title>Plots</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                         <IconFileName>Front Matter.tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
-                    <CorkboardAndOutliner>
-                        <CorkboardSettings>
-                            <FreeformMode>No</FreeformMode>
-                        </CorkboardSettings>
-                    </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="62" Created="2016-11-25 10:35:51 +0000" Modified="2016-11-25 10:40:10 +0000" Type="Text">
+                        <BinderItem ID="62" UUID="D7B2F7E5-F54A-4EBF-AAA9-B26880B8D29D" Created="2016-11-25 11:35:51 +0200" Modified="2016-11-25 11:40:10 +0200" Type="Text">
                             <Title>Fel's Quest</Title>
                             <MetaData>
                                 <LabelID>5</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>133,133</TextSelection>
+                                <TextSelection>133,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1208,15 +1135,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="63" Created="2016-11-25 10:38:26 +0000" Modified="2016-12-27 10:53:43 +0000" Type="Text">
+                        <BinderItem ID="63" UUID="3976DD17-510D-4312-8F5C-E34274BB7B28" Created="2016-11-25 11:38:26 +0200" Modified="2016-12-27 11:53:43 +0200" Type="Text">
                             <Title>Darkon's Choice</Title>
                             <MetaData>
                                 <LabelID>5</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>114,114</TextSelection>
+                                <TextSelection>114,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1225,15 +1151,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="64" Created="2016-11-25 10:38:34 +0000" Modified="2016-12-27 10:53:53 +0000" Type="Text">
+                        <BinderItem ID="64" UUID="30485196-CDC9-435E-8349-2604071B6DFB" Created="2016-11-25 11:38:34 +0200" Modified="2016-12-27 11:53:53 +0200" Type="Text">
                             <Title>Martyr's Answers</Title>
                             <MetaData>
                                 <LabelID>5</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>131,131</TextSelection>
+                                <TextSelection>131,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1244,11 +1169,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="10" Created="2016-11-21 16:08:32 +0000" Modified="2016-11-21 16:09:07 +0000" Type="Folder">
+                <BinderItem ID="10" UUID="6E98689A-D1CA-43F6-88E0-C8B410A58FB2" Created="2016-11-21 17:08:32 +0200" Modified="2016-11-21 17:09:07 +0200" Type="Folder">
                     <Title>Events</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                         <IconFileName>Information.tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
@@ -1260,11 +1184,10 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="26" Created="2016-11-21 17:01:33 +0000" Modified="2016-11-21 17:02:04 +0000" Type="Folder">
+                <BinderItem ID="26" UUID="70DC2BC8-B31D-4C53-B8D4-17D1C3D84ECA" Created="2016-11-21 18:01:33 +0200" Modified="2016-11-21 18:02:04 +0200" Type="Folder">
                     <Title>Places</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                         <IconFileName>Locations (Map).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
@@ -1276,15 +1199,14 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="31" Created="2016-11-22 21:32:39 +0000" Modified="2016-12-09 18:20:40 +0000" Type="Text">
+                        <BinderItem ID="31" UUID="52738B3E-B3A4-41D8-BC3F-A2D2BDF42DEF" Created="2016-11-22 22:32:39 +0200" Modified="2016-12-09 19:20:40 +0200" Type="Text">
                             <Title>Martyr's Bar</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>511,511</TextSelection>
+                                <TextSelection>511,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1296,15 +1218,14 @@
                                 <KeywordID>2</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="50" Created="2016-11-24 16:28:41 +0000" Modified="2016-11-25 08:35:11 +0000" Type="Text">
+                        <BinderItem ID="50" UUID="52CE40C5-E87A-44FA-A94C-FEDF294A921B" Created="2016-11-24 17:28:41 +0200" Modified="2016-11-25 09:35:11 +0200" Type="Text">
                             <Title>Dinaonyol</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>512,512</TextSelection>
+                                <TextSelection>512,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1316,15 +1237,14 @@
                                 <KeywordID>2</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem ID="66" Created="2016-11-25 14:32:30 +0000" Modified="2016-12-27 10:54:49 +0000" Type="Text">
+                        <BinderItem ID="66" UUID="69F8306A-440D-4868-85D3-6180824A7F27" Created="2016-11-25 15:32:30 +0200" Modified="2016-12-27 11:54:49 +0200" Type="Text">
                             <Title>University</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>100,100</TextSelection>
+                                <TextSelection>100,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1340,22 +1260,19 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="2" Created="2016-11-21 15:40:46 +0000" Modified="2016-11-21 15:40:46 +0000" Type="TrashFolder">
+        <BinderItem ID="2" UUID="EAA8E205-7090-44F5-A423-EF52F49AAFBF" Created="2016-11-21 16:40:46 +0200" Modified="2016-11-21 16:40:46 +0200" Type="TrashFolder">
             <Title>Trash</Title>
-            <MetaData>
-                <NotesTextSelection>0,0</NotesTextSelection>
-            </MetaData>
+            <MetaData/>
             <CorkboardAndOutliner>
                 <CorkboardSettings>
                     <FreeformMode>Yes</FreeformMode>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="69" Created="2016-12-08 13:58:56 +0000" Modified="2016-12-08 13:58:56 +0000" Type="Text">
+                <BinderItem ID="69" UUID="6F6272B8-0515-49D7-8262-99351B2C3538" Created="2016-12-08 14:58:56 +0200" Modified="2016-12-08 14:58:56 +0200" Type="Text">
                     <Title></Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
@@ -1366,11 +1283,10 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="72" Created="2016-12-09 15:45:34 +0000" Modified="2016-12-09 15:45:34 +0000" Type="Text">
+                <BinderItem ID="72" UUID="B0471971-0E63-4721-8604-ECD5B3CD9BBE" Created="2016-12-09 16:45:34 +0200" Modified="2016-12-09 16:45:34 +0200" Type="Text">
                     <Title></Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
@@ -1383,11 +1299,10 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="6" Created="2016-11-21 15:41:51 +0000" Modified="2017-09-25 16:35:01 +0000" Type="Folder">
+        <BinderItem ID="6" UUID="4E7043F4-A6F7-45B0-9A4B-1C5483689D5B" Created="2016-11-21 16:41:51 +0200" Modified="2017-09-26 15:20:38 +0200" Type="Folder">
             <Title>Templates</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
-                <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <TextSettings>
                 <Target Type="Words">0</Target>
@@ -1398,14 +1313,13 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="5" Created="2016-11-21 15:41:24 +0000" Modified="2016-11-24 16:25:07 +0000" Type="Text">
+                <BinderItem ID="5" UUID="C838CD26-95FC-4939-9E54-AC60B093CBD3" Created="2016-11-21 16:41:24 +0200" Modified="2016-11-24 17:25:07 +0200" Type="Text">
                     <Title>Characters</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>123,123</TextSelection>
+                        <TextSelection>123,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -1417,15 +1331,14 @@
                         <KeywordID>1</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="8" Created="2016-11-21 16:10:48 +0000" Modified="2016-11-24 20:55:58 +0000" Type="Text">
+                <BinderItem ID="8" UUID="A4BD5FA1-F64F-45E0-81AF-65DB3CC91F08" Created="2016-11-21 17:10:48 +0200" Modified="2016-11-24 21:55:58 +0200" Type="Text">
                     <Title>Place</Title>
                     <MetaData>
                         <LabelID>3</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>13,13</TextSelection>
+                        <TextSelection>13,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -1437,15 +1350,14 @@
                         <KeywordID>2</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="11" Created="2016-11-21 16:13:01 +0000" Modified="2016-11-21 16:53:36 +0000" Type="Text">
+                <BinderItem ID="11" UUID="F872286C-E2C5-49E7-9924-F95B18A81A13" Created="2016-11-21 17:13:01 +0200" Modified="2016-11-21 17:53:36 +0200" Type="Text">
                     <Title>Event</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>21,21</TextSelection>
+                        <TextSelection>21,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -1457,15 +1369,14 @@
                         <KeywordID>3</KeywordID>
                     </Keywords>
                 </BinderItem>
-                <BinderItem ID="12" Created="2016-11-21 16:13:55 +0000" Modified="2016-11-21 16:19:17 +0000" Type="Text">
+                <BinderItem ID="12" UUID="0BB87E5C-D5D4-4E94-B810-D0D2FFF274D9" Created="2016-11-21 17:13:55 +0200" Modified="2016-11-21 17:19:17 +0200" Type="Text">
                     <Title>Plot</Title>
                     <MetaData>
                         <LabelID>5</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>17,17</TextSelection>
+                        <TextSelection>17,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -1474,14 +1385,13 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="68" Created="2016-12-08 13:58:41 +0000" Modified="2016-12-08 13:59:34 +0000" Type="Text">
+                <BinderItem ID="68" UUID="CC406FAD-AF50-41B9-8BAF-7155E0B39109" Created="2016-12-08 14:58:41 +0200" Modified="2016-12-08 14:59:34 +0200" Type="Text">
                     <Title>Replace &quot;to Say&quot;</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>80,80</TextSelection>
+                        <TextSelection>80,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -1493,11 +1403,44 @@
             </Children>
         </BinderItem>
     </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+            <Label ID="2" Color="0.000000 0.470588 0.305882">Character</Label>
+            <Label ID="3" Color="0.000000 0.286275 0.839216">Place</Label>
+            <Label ID="4" Color="0.000000 0.121569 0.015686">Event</Label>
+            <Label ID="5" Color="0.000000 0.176471 0.215686">Plot</Label>
+            <Label ID="6" Color="0.000000 0.411765 0.839216">Scene</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <TemplateFolderUUID>4E7043F4-A6F7-45B0-9A4B-1C5483689D5B</TemplateFolderUUID>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2017-09-26 15:34:31 +0200"/>
+    </ProjectTargets>
     <Collections>
-        <Collection Type="Binder" ID="c498ebb4-6df7-46ab-96ea-58fe311654aa" Color="0.321569 0.325490 0.333333">
+        <Collection Type="Binder" ID="C498EBB4-6DF7-46AB-96EA-58FE311654AA" Color="0.901961 0.917647 0.933333">
             <Title>Binder</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="5f22c212-a808-4097-9068-883294ca0ce2" Color="0.901961 0.901961 0.980392">
+        <Collection Type="RecentSearch" ID="5F22C212-A808-4097-9068-883294CA0CE2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
             <SearchSettings Operator="All" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">Julia</SearchSettings>
         </Collection>
@@ -1552,38 +1495,5 @@
             <Color>0.333333 0.333333 1.000000</Color>
         </Keyword>
     </Keywords>
-    <LabelSettings>
-        <Title>Label</Title>
-        <DefaultLabelID>-1</DefaultLabelID>
-        <Labels>
-            <Label ID="-1">No Label</Label>
-            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
-            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
-            <Label ID="2" Color="0.000000 0.470588 0.305882">Character</Label>
-            <Label ID="3" Color="0.000000 0.286275 0.839216">Place</Label>
-            <Label ID="4" Color="0.000000 0.121569 0.015686">Event</Label>
-            <Label ID="5" Color="0.000000 0.176471 0.215686">Plot</Label>
-            <Label ID="6" Color="0.000000 0.411765 0.839216">Scene</Label>
-        </Labels>
-    </LabelSettings>
-    <StatusSettings>
-        <Title>Status</Title>
-        <DefaultStatusID>-1</DefaultStatusID>
-        <StatusItems>
-            <Status ID="-1">No Status</Status>
-            <Status ID="0">N/A</Status>
-            <Status ID="1">To Do</Status>
-            <Status ID="2">First Draft</Status>
-            <Status ID="3">Revised Draft</Status>
-            <Status ID="4">Final Draft</Status>
-            <Status ID="5">Done</Status>
-        </StatusItems>
-    </StatusSettings>
-    <ProjectProperties/>
-    <ProjectTargets>
-        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-    </ProjectTargets>
-    <TemplateFolderID>6</TemplateFolderID>
     <PrintSettings PaperType="A4" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="72.0001" BottomMargin="72.0001" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
 </ScrivenerProject>
