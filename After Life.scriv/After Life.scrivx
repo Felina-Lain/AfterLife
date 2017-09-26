@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Felina-PC" Modified="2017-09-26 15:34:31 +0200" ModID="EEF145F7-937D-40F3-A863-F71FE240C79C">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Felina-PC" Modified="2017-09-26 16:25:42 +0200" ModID="5E927555-1BCE-4E39-8FF0-29753E7F610D">
     <Binder>
         <BinderItem ID="0" UUID="3A49FFE4-B2D3-4044-8D5E-ED2E183BE133" Created="2016-11-21 16:40:46 +0200" Modified="2017-02-11 17:16:03 +0200" Type="DraftFolder">
             <Title>Draft</Title>
@@ -143,13 +143,13 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="76" UUID="1AB47548-E0D3-430B-95ED-1C6812D68B03" Created="2017-01-02 18:46:35 +0200" Modified="2017-02-21 17:20:48 +0200" Type="Text">
+                        <BinderItem ID="76" UUID="1AB47548-E0D3-430B-95ED-1C6812D68B03" Created="2017-01-02 18:46:35 +0200" Modified="2017-09-26 16:12:19 +0200" Type="Text">
                             <Title>Slow drifting</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4478,0</TextSelection>
+                                <TextSelection>5503,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -158,14 +158,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="78" UUID="0C3B2B6B-6DB2-49E0-BEA7-0B4C3971A137" Created="2017-01-23 12:57:16 +0200" Modified="2017-02-21 17:20:48 +0200" Type="Text">
+                        <BinderItem ID="78" UUID="0C3B2B6B-6DB2-49E0-BEA7-0B4C3971A137" Created="2017-01-23 12:57:16 +0200" Modified="2017-09-26 16:14:06 +0200" Type="Text">
                             <Title>Waking Up</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3506,0</TextSelection>
+                                <TextSelection>1737,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -190,13 +190,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="81" UUID="A184C117-67E8-4FC7-833D-BC63A322667B" Created="2017-09-23 13:17:07 +0200" Modified="2017-09-23 13:18:03 +0200" Type="Text">
+                        <BinderItem ID="81" UUID="A184C117-67E8-4FC7-833D-BC63A322667B" Created="2017-09-23 13:17:07 +0200" Modified="2017-09-26 16:25:42 +0200" Type="Text">
                             <Title>First day</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>4187,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -1434,15 +1435,15 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-09-26 15:34:31 +0200"/>
+        <PreviousSession Words="681" Characters="3725" Date="2017-09-26 16:04:38 +0200"/>
     </ProjectTargets>
     <Collections>
-        <Collection Type="Binder" ID="C498EBB4-6DF7-46AB-96EA-58FE311654AA" Color="0.901961 0.917647 0.933333">
+        <Collection Type="Binder" ID="C498EBB4-6DF7-46AB-96EA-58FE311654AA" Color="0.321569 0.325490 0.333333">
             <Title>Binder</Title>
         </Collection>
         <Collection Type="RecentSearch" ID="5F22C212-A808-4097-9068-883294CA0CE2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="All" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">Julia</SearchSettings>
+            <SearchSettings Operator="All" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">potato</SearchSettings>
         </Collection>
     </Collections>
     <Keywords>
