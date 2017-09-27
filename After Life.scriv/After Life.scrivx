@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Felina-PC" Modified="2017-09-26 16:25:42 +0200" ModID="5E927555-1BCE-4E39-8FF0-29753E7F610D">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Felina-PC" Modified="2017-09-26 23:28:55 +0200" ModID="F31F4352-9388-4F3F-B58E-C4A93821E95C">
     <Binder>
         <BinderItem ID="0" UUID="3A49FFE4-B2D3-4044-8D5E-ED2E183BE133" Created="2016-11-21 16:40:46 +0200" Modified="2017-02-11 17:16:03 +0200" Type="DraftFolder">
             <Title>Draft</Title>
@@ -128,7 +128,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="77" UUID="4558CE75-CE49-49D5-BCC4-B29A2A761C41" Created="2017-01-06 11:49:26 +0200" Modified="2017-02-21 17:20:47 +0200" Type="Folder">
+                <BinderItem ID="77" UUID="4558CE75-CE49-49D5-BCC4-B29A2A761C41" Created="2017-01-06 11:49:26 +0200" Modified="2017-09-26 23:28:54 +0200" Type="Folder">
                     <Title>To Return</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
@@ -1435,7 +1435,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="681" Characters="3725" Date="2017-09-26 16:04:38 +0200"/>
+        <PreviousSession Words="0" Characters="0" Date="2017-09-26 23:28:33 +0200"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="C498EBB4-6DF7-46AB-96EA-58FE311654AA" Color="0.321569 0.325490 0.333333">
